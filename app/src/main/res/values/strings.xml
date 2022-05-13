@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Project 1</string>
+    <string name="app_name">Mars</string>
+    <string name="camera_angle_name">Camera Angle Name</string>
+    <string name="sol_day">Sol Day</string>
 </resources>
